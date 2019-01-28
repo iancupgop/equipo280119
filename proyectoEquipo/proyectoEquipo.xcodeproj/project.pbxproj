@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A645F5321FF583700806045 /* Gera1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A645F5221FF583700806045 /* Gera1.swift */; };
 		1A89569D21FF57230041D2DA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A89569C21FF57230041D2DA /* AppDelegate.swift */; };
 		1A89569F21FF57230041D2DA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A89569E21FF57230041D2DA /* ViewController.swift */; };
 		1A8956A221FF57230041D2DA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A8956A021FF57230041D2DA /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A645F5221FF583700806045 /* Gera1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gera1.swift; sourceTree = "<group>"; };
 		1A89569921FF57230041D2DA /* proyectoEquipo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = proyectoEquipo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A89569C21FF57230041D2DA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1A89569E21FF57230041D2DA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				1A8956A321FF57230041D2DA /* Assets.xcassets */,
 				1A8956A521FF57230041D2DA /* LaunchScreen.storyboard */,
 				1A8956A821FF57230041D2DA /* Info.plist */,
+				1A645F5221FF583700806045 /* Gera1.swift */,
 			);
 			path = proyectoEquipo;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				1A89569F21FF57230041D2DA /* ViewController.swift in Sources */,
 				1A89569D21FF57230041D2DA /* AppDelegate.swift in Sources */,
+				1A645F5321FF583700806045 /* Gera1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
