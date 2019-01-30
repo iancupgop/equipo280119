@@ -29,6 +29,7 @@
 		1AA9A2E42201F4DF0094CE1B /* Gera3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA9A2E32201F4DF0094CE1B /* Gera3.swift */; };
 		1AE46E492201F4A000CA9439 /* Ian2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE46E482201F4A000CA9439 /* Ian2.swift */; };
 		1AE46E4B2201F60100CA9439 /* Ian3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE46E4A2201F60100CA9439 /* Ian3.swift */; };
+		1AE46E4D2201F77A00CA9439 /* Ian4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE46E4C2201F77A00CA9439 /* Ian4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +78,7 @@
 		1AA9A2E32201F4DF0094CE1B /* Gera3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gera3.swift; sourceTree = "<group>"; };
 		1AE46E482201F4A000CA9439 /* Ian2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ian2.swift; sourceTree = "<group>"; };
 		1AE46E4A2201F60100CA9439 /* Ian3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ian3.swift; sourceTree = "<group>"; };
+		1AE46E4C2201F77A00CA9439 /* Ian4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ian4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				1A6FB9392201F65C00368C15 /* Gera4.swift */,
 				1AA7F3782201F6D70039060D /* memo4.4.swift */,
 				1A8302E22201F71B00AC65D2 /* Pipe4.swift */,
+				1AE46E4C2201F77A00CA9439 /* Ian4.swift */,
 			);
 			path = proyectoEquipo;
 			sourceTree = "<group>";
@@ -315,6 +318,7 @@
 				1A6FB93A2201F65C00368C15 /* Gera4.swift in Sources */,
 				1AA7F3772201F5370039060D /* memo3.3.swift in Sources */,
 				1A8302E32201F71B00AC65D2 /* Pipe4.swift in Sources */,
+				1AE46E4D2201F77A00CA9439 /* Ian4.swift in Sources */,
 				1AE46E492201F4A000CA9439 /* Ian2.swift in Sources */,
 				1AA9A2E22201F37A0094CE1B /* Gera2.swift in Sources */,
 				1AA7F3792201F6D70039060D /* memo4.4.swift in Sources */,
