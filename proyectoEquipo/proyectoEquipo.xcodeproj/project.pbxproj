@@ -12,6 +12,7 @@
 		1A598FB32201F1F20000E105 /* ian1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A598FB22201F1F20000E105 /* ian1.swift */; };
 		1A645F5321FF583700806045 /* Gera1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A645F5221FF583700806045 /* Gera1.swift */; };
 		1A6FB93A2201F65C00368C15 /* Gera4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A6FB9392201F65C00368C15 /* Gera4.swift */; };
+		1A6FB93C2201F7B700368C15 /* Gera5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A6FB93B2201F7B700368C15 /* Gera5.swift */; };
 		1A8302E12201F5AF00AC65D2 /* Pipe3.1416.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A8302E02201F5AF00AC65D2 /* Pipe3.1416.swift */; };
 		1A8302E32201F71B00AC65D2 /* Pipe4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A8302E22201F71B00AC65D2 /* Pipe4.swift */; };
 		1A89569D21FF57230041D2DA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A89569C21FF57230041D2DA /* AppDelegate.swift */; };
@@ -55,6 +56,7 @@
 		1A598FB22201F1F20000E105 /* ian1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ian1.swift; sourceTree = "<group>"; };
 		1A645F5221FF583700806045 /* Gera1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gera1.swift; sourceTree = "<group>"; };
 		1A6FB9392201F65C00368C15 /* Gera4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gera4.swift; sourceTree = "<group>"; };
+		1A6FB93B2201F7B700368C15 /* Gera5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gera5.swift; sourceTree = "<group>"; };
 		1A8302E02201F5AF00AC65D2 /* Pipe3.1416.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pipe3.1416.swift; sourceTree = "<group>"; };
 		1A8302E22201F71B00AC65D2 /* Pipe4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pipe4.swift; sourceTree = "<group>"; };
 		1A89569921FF57230041D2DA /* proyectoEquipo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = proyectoEquipo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -151,6 +153,7 @@
 				1AA7F3782201F6D70039060D /* memo4.4.swift */,
 				1A8302E22201F71B00AC65D2 /* Pipe4.swift */,
 				1AE46E4C2201F77A00CA9439 /* Ian4.swift */,
+				1A6FB93B2201F7B700368C15 /* Gera5.swift */,
 			);
 			path = proyectoEquipo;
 			sourceTree = "<group>";
@@ -309,6 +312,7 @@
 			files = (
 				1AA7F3752201F3E60039060D /* memo2.2.swift in Sources */,
 				1A2B77032201F44F0027E9E1 /* Pipe2.swift in Sources */,
+				1A6FB93C2201F7B700368C15 /* Gera5.swift in Sources */,
 				1AE46E4B2201F60100CA9439 /* Ian3.swift in Sources */,
 				1A89569F21FF57230041D2DA /* ViewController.swift in Sources */,
 				1A2B77012201F2A40027E9E1 /* Pipe1.swift in Sources */,
