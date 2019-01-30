@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1A2B77012201F2A40027E9E1 /* Pipe1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2B77002201F2A40027E9E1 /* Pipe1.swift */; };
+		1A2B77032201F44F0027E9E1 /* Pipe2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2B77022201F44F0027E9E1 /* Pipe2.swift */; };
 		1A598FB32201F1F20000E105 /* ian1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A598FB22201F1F20000E105 /* ian1.swift */; };
 		1A645F5321FF583700806045 /* Gera1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A645F5221FF583700806045 /* Gera1.swift */; };
 		1A89569D21FF57230041D2DA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A89569C21FF57230041D2DA /* AppDelegate.swift */; };
@@ -41,6 +42,7 @@
 
 /* Begin PBXFileReference section */
 		1A2B77002201F2A40027E9E1 /* Pipe1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pipe1.swift; sourceTree = "<group>"; };
+		1A2B77022201F44F0027E9E1 /* Pipe2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pipe2.swift; sourceTree = "<group>"; };
 		1A598FB22201F1F20000E105 /* ian1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ian1.swift; sourceTree = "<group>"; };
 		1A645F5221FF583700806045 /* Gera1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gera1.swift; sourceTree = "<group>"; };
 		1A89569921FF57230041D2DA /* proyectoEquipo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = proyectoEquipo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -121,6 +123,7 @@
 				1A2B77002201F2A40027E9E1 /* Pipe1.swift */,
 				1AA9A2E12201F37A0094CE1B /* Gera2.swift */,
 				1AA7F3742201F3E60039060D /* memo2.2.swift */,
+				1A2B77022201F44F0027E9E1 /* Pipe2.swift */,
 			);
 			path = proyectoEquipo;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1AA7F3752201F3E60039060D /* memo2.2.swift in Sources */,
+				1A2B77032201F44F0027E9E1 /* Pipe2.swift in Sources */,
 				1A89569F21FF57230041D2DA /* ViewController.swift in Sources */,
 				1A2B77012201F2A40027E9E1 /* Pipe1.swift in Sources */,
 				1AA7F3732201EDB10039060D /* memo1.swift in Sources */,
