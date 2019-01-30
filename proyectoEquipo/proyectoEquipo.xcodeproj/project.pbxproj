@@ -18,6 +18,7 @@
 		1A8956B221FF57230041D2DA /* proyectoEquipoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A8956B121FF57230041D2DA /* proyectoEquipoTests.swift */; };
 		1A8956BD21FF57230041D2DA /* proyectoEquipoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A8956BC21FF57230041D2DA /* proyectoEquipoUITests.swift */; };
 		1AA7F3732201EDB10039060D /* memo1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA7F3722201EDB10039060D /* memo1.swift */; };
+		1AA7F3752201F3E60039060D /* memo2.2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA7F3742201F3E60039060D /* memo2.2.swift */; };
 		1AA9A2E22201F37A0094CE1B /* Gera2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA9A2E12201F37A0094CE1B /* Gera2.swift */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 		1A8956BC21FF57230041D2DA /* proyectoEquipoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = proyectoEquipoUITests.swift; sourceTree = "<group>"; };
 		1A8956BE21FF57230041D2DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1AA7F3722201EDB10039060D /* memo1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = memo1.swift; sourceTree = "<group>"; };
+		1AA7F3742201F3E60039060D /* memo2.2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = memo2.2.swift; sourceTree = "<group>"; };
 		1AA9A2E12201F37A0094CE1B /* Gera2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gera2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -118,6 +120,7 @@
 				1A598FB22201F1F20000E105 /* ian1.swift */,
 				1A2B77002201F2A40027E9E1 /* Pipe1.swift */,
 				1AA9A2E12201F37A0094CE1B /* Gera2.swift */,
+				1AA7F3742201F3E60039060D /* memo2.2.swift */,
 			);
 			path = proyectoEquipo;
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AA7F3752201F3E60039060D /* memo2.2.swift in Sources */,
 				1A89569F21FF57230041D2DA /* ViewController.swift in Sources */,
 				1A2B77012201F2A40027E9E1 /* Pipe1.swift in Sources */,
 				1AA7F3732201EDB10039060D /* memo1.swift in Sources */,
